@@ -1,0 +1,60 @@
+.touch{
+    height: 745px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+overflow-y: hidden;
+
+}
+.dropdown1{
+    display: inline;
+    margin: 0 30px;
+    top: 590px;
+
+}
+.dropdown2{
+    background-color: #A67449!important;
+    width: 15%;
+    border-radius: 20px!important;
+    border-color: #A67449!important;
+    height: 70px!important;
+}
+.dropdown2:hover{
+    background-color: #ffb67e!important;
+    border-color: white!important;
+}
+.dropdown2::after{
+    border-top: none!important;
+}
+.son{
+    font-size: 30px;
+}
+.menu{
+    background-color: transparent!important;
+    border: none!important;
+    width: 100%!important;
+    text-align: center!important;
+    margin-bottom: 15px!important;
+
+}
+.timachi{
+    border-radius: 15px!important;
+    background-color: white!important;
+    margin-bottom: 10px;
+    border: 1px solid aliceblue!important;
+    height: 34px!important;
+}
+.timachi1{
+    border-radius: 15px!important;
+    background-color: greenyellow!important;
+    margin-bottom: 10px;
+    border: 1px solid #48ff52!important;
+    height: 34px!important;
+}
+.size{
+    font-weight: bolder;
+    font-size: 35px;
+    text-align: center;
+    font-family: Arial;
+}

@@ -1,0 +1,233 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.btn{
+  line-height: 1.1!important;
+}
+.tta{
+  text-align: center;
+}
+
+.row{
+  width: 98%;
+}
+.qogoz{
+  width: 600px;
+  margin-left: 80px;
+}
+.qogozi{
+  margin-top: -130px;
+  margin-left: 170px;
+  font-weight: bold;
+}
+.qogozm{
+  width: 400px;
+  margin-left: 80px;
+}
+.qogozma{
+  width: 400px;
+  margin-left: 110%;
+}
+.qogozl{
+  width: 400px;
+   font-weight: bold;
+   margin-left: 120px;
+  margin-top: -110px;
+}
+.qogozmm{
+  width: 400px;
+  margin-left: 520px;
+}
+.qogozll{
+  width: 400px;
+  font-weight: bold;
+  margin-left: 570px;
+  margin-top: -100px;
+}
+.uch{
+  width: 350px;
+  margin-left: 590px;
+  margin-top: -300px;
+}
+.ped{
+  justify-content: center;
+  text-align: center;
+}
+.ped2{
+  text-align: center;
+  margin-top: -5px;
+}
+.dorim{
+  margin-top: -70px;
+  margin-left: 38%;
+}
+.tabletka{
+  margin-left: 30%;
+}
+.buttons{
+  width: 380px;
+  height: 64px;
+  background: linear-gradient(98.23deg, #FFCB53 16.74%, #FD7C01 100.91%);
+  box-shadow: 0px 6px 6px rgba(0, 0, 0, 0.17);
+  border-radius: 26px;
+  margin-top: 12px;
+  margin-left: 37%;
+
+
+}
+.ta{
+  margin-left: 673px;
+  margin-top: -49px;
+}
+.uzin{
+  margin-left: 49%;
+  height: 20px;
+  width: 3px;
+  margin-top: 8px;
+}
+.aaaaaaa{
+  margin-left: 320px;
+}
+.buttons1{
+  width: 380px;
+  height: 64px;
+  background: linear-gradient(98.23deg, #FFCB53 16.74%, #FD7C01 100.91%);
+  box-shadow: 0px 6px 6px rgba(0, 0, 0, 0.17);
+  border-radius: 26px;
+  margin-left: 100px;
+  margin-top: -20px;
+}
+.ichi1{
+  margin-top: -50px;
+  margin-left:160px;
+}
+.buttons2{
+  width: 380px;
+  height: 64px;
+  background: linear-gradient(98.23deg, #FFCB53 16.74%, #FD7C01 100.91%);
+  box-shadow: 0px 6px 6px rgba(0, 0, 0, 0.17);
+  border-radius: 26px;
+  margin-left: 300px;
+  margin-top: -20px;
+}
+.ichi2{
+  margin-top: -50px;
+  margin-left:350px;
+
+}
+.buttons3{
+  width: 380px;
+  height: 64px;
+  background: linear-gradient(98.23deg, #FFCB53 16.74%, #FD7C01 100.91%);
+  box-shadow: 0px 6px 6px rgba(0, 0, 0, 0.17);
+  border-radius: 26px;
+  margin-left: 140px;
+  margin-top: -20px;
+}
+.buttons4{
+  width: 380px;
+  height: 64px;
+  background: linear-gradient(98.23deg, #FFCB53 16.74%, #FD7C01 100.91%);
+  box-shadow: 0px 6px 6px rgba(0, 0, 0, 0.17);
+  border-radius: 26px;
+  margin-left: 260px;
+  margin-top: -20px;
+}
+.ichi3{
+  margin-top: -50px;
+  margin-left:200px;
+}
+.ichi4{
+  margin-top: -50px;
+  margin-left:310px;
+}
+.gul{
+  margin-top: -20px;
+  margin-left: 100px;
+}
+.oz{
+  margin-top: -22%;
+  font-size: 25px;
+  margin-left: 280px;
+  font-weight: bold;
+}
+.jahonn{
+  margin-top: -90px;
+  margin-left: 48%;
+  text-transform: uppercase;
+}
+
+.sww{
+  margin-left: 40%;
+}
+
+.yuzellik{
+  text-transform: uppercase;
+  text-align: center;
+}
+
+
+.page3{
+  width: 500px;
+  height: 190px;
+}
+
+.textk{
+  margin-left: 35%;
+  margin-top: -24%;
+  font-size: 20px;
+  font-weight: bold;
+}
+.asboblar{
+  border-radius: 20px 20px 20px 20px;
+  width: 160px;
+}
+.textk1{
+  margin-left: 35%;
+  margin-top: -18%;
+  font-size: 20px;
+  font-weight: bold;
+}
+.lll{
+  margin-left: 60px;
+}
+.kkk{
+  margin-left: 20px;
+}
+.textk4{
+  margin-left: 31%;
+  margin-top: -15%;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.textk5{
+  margin-left: 35%;
+  margin-top: -12%;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.textk6{
+  margin-left: 35%;
+  margin-top: -21%;
+  font-size: 20px;
+  font-weight: bold;
+}
+.textk9{
+  margin-left: 30%;
+  margin-top: -21%;
+  font-size: 20px;
+  font-weight: bold;
+}
+
